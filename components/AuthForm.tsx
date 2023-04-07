@@ -7,6 +7,7 @@ import Card from "./Card";
 import Button from "./Button";
 import Input from "./Input";
 
+// testing
 const registerContent = {
   linkUrl: "/signin",
   linkText: "Already have an account?",
